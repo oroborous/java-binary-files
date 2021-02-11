@@ -1,0 +1,249 @@
+Egypt;Africa;Cairo;100388073;1001450
+Algeria;Africa;Algiers;43053054;2381740
+Angola;Africa;Luanda;31825295;1246700
+Equatorial Guinea;Africa;Malabo;1355986;28050
+Ethiopia;Africa;Addis Ababa;112078730;1104300
+Benin;Africa;Porto-Novo;11801151;114760
+Botswana;Africa;Gaborone;2303697;581730
+British Indian Ocean Territory;Africa;;0;54400
+Burkina Faso;Africa;Ouagadougou;20321378;274220
+Burundi;Africa;Bujumbura;11530580;27830
+Democratic Republic of the Congo;Africa;Kinshasa;86790567;2344860
+Djibouti;Africa;Djibouti;973560;23200
+Ivory Coast;Africa;Yamoussoukro;25716544;322460
+Eritrea;Africa;Asmara;3497117;117600
+Swaziland;Africa;Mbabane;1148130;17360
+Gabon;Africa;Libreville;2172579;267670
+Gambia;Africa;Banjul;2347706;11300
+Ghana;Africa;Accra;30417856;238540
+Guinea;Africa;Conakry;12771246;245860
+Guinea-Bissau;Africa;Bissau;1920922;36130
+Cameroon;Africa;Yaoundé;25876380;475440
+Cape Verde;Africa;Praia;549935;4030
+Kenya;Africa;Nairobi;52573973;580370
+Comoros;Africa;Moroni;850886;1861
+Lesotho;Africa;Maseru;2125268;30360
+Liberia;Africa;Monrovia;4937374;111370
+Libya;Africa;Tripoli;6777452;1759540
+Madagascar;Africa;Antananarivo;26969307;587295
+Malawi;Africa;Lilongwe;18628747;118480
+Mali;Africa;Bamako;19658031;1240190
+Morocco;Africa;Rabat;36471769;446550
+Mauritania;Africa;Nouakchott;4525696;1030700
+Mauritius;Africa;Port Louis;1265711;2040
+Mayotte;Africa;Mamoudzou;256518;374
+Mozambique;Africa;Maputo;30366036;786380
+Namibia;Africa;Windhoek;2494530;824290
+Niger;Africa;Niamey;23310715;1267000
+Nigeria;Africa;Abuja;200963599;923770
+Republic of the Congo;Africa;Brazzaville;5380508;342000
+Reunion;Africa;Saint-Denis;699000;2512
+Rwanda;Africa;Kigali;12626950;26340
+Zambia;Africa;Lusaka;17861030;752610
+Sao Tome and Principe;Africa;São Tomé;215056;960
+Senegal;Africa;Dakar;16296364;196710
+Seychelles;Africa;Victoria;97625;460
+Sierra Leone;Africa;Freetown;7813215;72300
+Zimbabwe;Africa;Harare;14645468;390760
+Somalia;Africa;Mogadishu;15442905;637660
+Saint Helena, Ascension and Tristan da Cunha;Africa;Jamestown;7862;308
+South Africa;Africa;Pretoria;58558270;1219090
+Sudan;Africa;Khartoum;42813238;1879358
+South Sudan;Africa;Juba;11062113;644330
+Tanzania;Africa;Dodoma;58005463;947300
+Togo;Africa;Lomé;8082366;56790
+Chad;Africa;N'Djamena;15946876;1284000
+Tunisia;Africa;Tunis;11694719;163610
+Uganda;Africa;Kampala;44269594;241550
+Western Sahara;Africa;El Aaiún;652271;266000
+Central African Republic;Africa;Bangui;4745185;622980
+Afghanistan;Asia;Kabul;38041754;652860
+Armenia;Asia;Yerevan;2957731;29740
+Azerbaijan;Asia;Baku;10023318;86600
+Bahrain;Asia;Manama;1641172;778
+Bangladesh;Asia;Dhaka;163046161;147630
+Bhutan;Asia;Thimphu;763092;38394
+Brunei;Asia;Bandar Seri Begawan;433285;5770
+China;Asia;Beijing;1397715000;9562910
+Georgia;Asia;Tbilisi;3720382;69700
+Hong Kong;Asia;Hong Kong;7507400;1110
+India;Asia;New Delhi;1366417754;3287259
+Indonesia;Asia;Jakarta;270625568;1913580
+Iraq;Asia;Baghdad;39309783;435052
+Iran;Asia;Tehran;82913906;1745150
+Israel;Asia;Jerusalem;9053300;22070
+Japan;Asia;Tokyo;126264931;377970
+Yemen;Asia;Sanaa;29161922;527970
+Jordan;Asia;Amman;10101694;89320
+Cambodia;Asia;Phnom Penh;16486542;181040
+Kazakhstan;Asia;Nursultan;18513930;2724902
+Qatar;Asia;Doha;2832067;11610
+Kyrgyzstan;Asia;Bishkek;6456900;199950
+Kuwait;Asia;Kuwait City;4207083;17820
+Laos;Asia;Vientiane;7169455;236800
+Lebanon;Asia;Beirut;6855713;10450
+Macao;Asia;Concelho de Macau;640445;30
+Malaysia;Asia;Kuala Lumpur;31949777;330345
+Maldives;Asia;Malé;530953;300
+Mongolia;Asia;Ulaanbaatar;3225167;1564120
+Burma;Asia;Nay Pyi Taw;54045420;676590
+Nepal;Asia;Kathmandu;28608710;147180
+North Korea;Asia;Pyongyang;25666161;120540
+Oman;Asia;Muscat;4974986;309500
+East Timor;Asia;Dili;1293119;14870
+Pakistan;Asia;Islamabad;216565318;796100
+Palestine;Asia;Ramallah;4685306;6020
+Philippines;Asia;Manila;108116615;300000
+Saudi Arabia;Asia;Riyadh;34268528;2149690
+Singapore;Asia;Singapore;5703569;719
+Sri Lanka;Asia;Colombo;21803000;65610
+South Korea;Asia;Seoul;51709098;100339
+Syria;Asia;Damascus;17070135;185180
+Tajikistan;Asia;Dushanbe;9321018;141380
+Taiwan;Asia;Taipei;23603049;35980
+Thailand;Asia;Bangkok;69625582;513120
+Turkey;Asia;Ankara;83429615;785350
+Turkmenistan;Asia;Ashgabat;5942089;488100
+Uzbekistan;Asia;Tashkent;33580650;447400
+United Arab Emirates;Asia;Abu Dhabi;9770529;83600
+Vietnam;Asia;Hanoi;96462106;331230
+Cyprus;Asia;Nicosia;1198575;9250
+Australia;Australia;Canberra;25364307;7741220
+Heard Island and McDonald Islands;Australia;;0;372
+Cocos (Keeling) Islands;Australia;West Island;596;14
+New Zealand;Australia;Wellington;4917000;267710
+Norfolk Island;Australia;Kingston;1748;36
+Christmas Island;Australia;Flying Fish Cove;2205;135
+Anguilla;Central America;The Valley;18090;91
+Antigua and Barbuda;Central America;Saint John’s;97118;440
+Aruba;Central America;Oranjestad;106314;180
+Bahamas;Central America;Nassau;389482;13880
+Barbados;Central America;Bridgetown;287025;430
+Belize;Central America;Belmopan;390353;22970
+Bonaire, Saint Eustatius and Saba;Central America;;24548;322
+Costa Rica;Central America;San José;5047561;51100
+Curacao;Central America;Willemstad;157538;444
+Dominica;Central America;Roseau;71808;750
+Dominican Republic;Central America;Santo Domingo;10738958;48670
+El Salvador;Central America;San Salvador;6453553;21040
+Grenada;Central America;Saint George's;112003;340
+Guadeloupe;Central America;Basse-Terre;456000;1628
+Guatemala;Central America;Guatemala City;16604026;108890
+Haiti;Central America;Port-au-Prince;11263077;27750
+Honduras;Central America;Tegucigalpa;9746117;112490
+Jamaica;Central America;Kingston;2948279;10990
+British Virgin Islands;Central America;Road Town;30030;150
+Virgin Islands;Central America;Charlotte Amalie;106631;350
+Cayman Islands;Central America;George Town;64948;260
+Cuba;Central America;Havana;11333483;109880
+Martinique;Central America;Fort-de-France;395000;1128
+Mexico;Central America;Mexico City;127575529;1964375
+Montserrat;Central America;Brades;5373;102
+Nicaragua;Central America;Managua;6545502;130370
+Panama;Central America;Panama City;4246439;75420
+Puerto Rico;Central America;San Juan;3193694;8870
+Saint Martin;Central America;Marigot;38002;54
+Saint Barthelemy;Central America;Gustavia;7122;21
+Sint Maarten;Central America;Philipsburg;40733;34
+Saint Kitts and Nevis;Central America;Basseterre;52834;260
+Saint Lucia;Central America;Castries;182790;620
+Saint Vincent and the Grenadines;Central America;Kingstown;110589;390
+Trinidad and Tobago;Central America;Port-of-Spain;1394973;5130
+Turks and Caicos Islands;Central America;Cockburn Town;38191;950
+Åland Islands;Europe;Mariehamn;29013;1580
+Albania;Europe;Tirana;2854191;28750
+Andorra;Europe;Andorra la Vella;77142;470
+Belarus;Europe;Minsk;9466856;207600
+Belgium;Europe;Brussels;11484055;30530
+Bosnia and Herzegovina;Europe;Sarajevo;3301000;51210
+Bulgaria;Europe;Sofia;6975761;111000
+Denmark;Europe;Copenhagen;5818553;42920
+Germany;Europe;Berlin;83132799;357580
+Estonia;Europe;Tallinn;1326590;45340
+Faroe Islands;Europe;Tórshavn;48678;1396
+Finland;Europe;Helsinki;5520314;338450
+France;Europe;Paris;67059887;549087
+Gibraltar;Europe;Gibraltar;33701;10
+Greece;Europe;Athens;10716322;131960
+Guernsey;Europe;Saint Peter Port;67052;78
+Isle of Man;Europe;Douglas;84584;570
+Ireland;Europe;Dublin;4941444;70280
+Iceland;Europe;Reykjavík;361313;103000
+Italy;Europe;Rome;60297396;301340
+Jersey;Europe;Saint Helier;101073;116
+Kosovo;Europe;Pristina;1794248;10887
+Croatia;Europe;Zagreb;4067500;56590
+Latvia;Europe;Riga;1912789;64490
+Liechtenstein;Europe;Vaduz;38019;160
+Lithuania;Europe;Vilnius;2786844;65286
+Luxembourg;Europe;Luxembourg;619896;2590
+Malta;Europe;Valletta;502653;320
+Moldova;Europe;Chisinau;2657637;33850
+Monaco;Europe;Monaco;38964;2
+Montenegro;Europe;Podgorica;622137;13810
+Netherlands;Europe;Amsterdam;17332850;41540
+North Macedonia;Europe;Skopje;2083459;25710
+Norway;Europe;Oslo;5347896;385203
+Austria;Europe;Vienna;8877067;83879
+Poland;Europe;Warsaw;37970874;312680
+Portugal;Europe;Lisbon;10269417;92226
+Romania;Europe;Bucharest;19356544;238400
+Russia;Europe;Moscow;144373535;17098250
+San Marino;Europe;San Marino;33860;60
+Sweden;Europe;Stockholm;10285453;447430
+Switzerland;Europe;Bern;8574832;41290
+Serbia;Europe;Belgrade;6944975;88360
+Slovakia;Europe;Bratislava;5454073;49030
+Slovenia;Europe;Ljubljana;2087946;20675
+Spain;Europe;Madrid;47076781;505935
+Svalbard;Europe;Longyearbyen;2926;62045
+Czechia;Europe;Prague;10669709;78870
+Ukraine;Europe;Kiev;44385155;603550
+Hungary;Europe;Budapest;9769949;93030
+Holy See (Vatican City);Europe;;1000;0
+United Kingdom;Europe;London;66834405;243610
+Bermuda;North America;Hamilton;63918;4290
+Greenland;North America;Nuuk;56225;2166000
+Canada;North America;Ottawa;37589262;9984670
+Saint Pierre and Miquelon;North America;Saint-Pierre;5347;242
+United States;North America;Washington, D.C.;328239523;9831510
+American Samoa;Oceania;Pago Pago;55312;200
+Antarctica;Oceania;;0;14000000
+Cook Islands;Oceania;Avarua;8574;236
+Fiji;Oceania;Suva;889953;18270
+French Polynesia;Oceania;Papeete;279287;4000
+French Southern and Antarctic Lands;Oceania;Port-aux-Français;0;55
+Guam;Oceania;Hagåtña;167294;540
+Kiribati;Oceania;Tarawa;117606;810
+Marshall Islands;Oceania;Majuro;58791;180
+Federated States of Micronesia;Oceania;;113815;700
+Nauru;Oceania;Yaren;12581;20
+New Caledonia;Oceania;Nouméa;287800;18580
+Niue;Oceania;Alofi;2000;260
+Northern Mariana Islands;Oceania;Saipan;57216;460
+Palau;Oceania;;18008;460
+Papua New Guinea;Oceania;Port Moresby;8776109;462840
+Pitcairn Islands;Oceania;Adamstown;50;47
+Solomon Islands;Oceania;Honiara;669823;28900
+Samoa;Oceania;Apia;197097;2840
+Tokelau;Oceania;;1647;12
+Tonga;Oceania;Nuku‘alofa;104494;750
+Tuvalu;Oceania;Funafuti;11646;30
+Vanuatu;Oceania;Port-Vila;299882;12190
+Wallis and Futuna;Oceania;Mata-Utu;15854;142
+Argentina;South America;Buenos Aires;44938712;2780400
+Bolivia;South America;Sucre;11513100;1098580
+Bouvet Island;South America;;0;49
+Brazil;South America;Brasília;211049527;8515770
+Chile;South America;Santiago;18952038;756700
+Ecuador;South America;Quito;17373662;256370
+Falkland Islands;South America;Stanley;3198;12173
+French Guiana;South America;Cayenne;181000;83534
+Guyana;South America;Georgetown;782766;214970
+Colombia;South America;Bogotá;50339443;1141749
+Paraguay;South America;Asunción;7044636;406752
+Peru;South America;Lima;32510453;1285220
+South Georgia and South Sandwich Islands;South America;King Edward Point;30;3903
+Suriname;South America;Paramaribo;581363;163820
+Uruguay;South America;Montevideo;3461734;176220
+Venezuela;South America;Caracas;28515829;912050
