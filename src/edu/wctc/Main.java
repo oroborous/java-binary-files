@@ -33,6 +33,9 @@ public class Main {
             // add this country to the count for current continent
             count++;
         }
+
+        // one final printout for the last group
+        System.out.printf("%-20s%-20d%n", currentContinent, count);
     }
 
     private static void writeCountryListObject() {
@@ -89,6 +92,8 @@ public class Main {
 //        writeCountryListObject();
 
         readCountryListObject();
+
+        controlBreak();
 
         System.out.println("Country list has " + countryList.size() + " countries");
 
